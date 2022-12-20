@@ -1,2 +1,2 @@
 # Linear-Regression-Coreffecient-Gen
-just something i made while studying statistics
+This project generates the parameters for a linear regression (a, b) such as y = ax + b.
